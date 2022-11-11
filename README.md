@@ -1,19 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# React To-Do list App
+# To-Do list React App
 
-> This is a React To-do list App.
+> This is a To-do list App built with React.
 
 ## Built With
 
-- Html
 - React
+- Webpack
 - CSS
 - Git and Github
 
 ## Live Demo (if available)
 
-[Live Demo Link]()
+[Live Demo Link](https://johnkioko.github.io/React-TodoList-App/)
 
 ## Getting Started
 
@@ -21,12 +21,12 @@
 
 To get a local copy up and running follow these simple example steps.
 
-To fork this project copy the link from github and clone it on your local repository.
-Before running this project , you need to install dependencies libraries, initialize npm by running npm init -y, run npm run build and start your development server with npm start.
+Go to github and clone the repository
 
-once you have done that, you can find editable html, css, and JavaScript files in the src directory.
-
-NB: To edit a to do item, click on its name and its value will appear on the input field from where you can edit. when done with editing click enter to save.
+- git clone https://github.com/johnkioko/React-TodoList-App.git
+- cd leaderboard
+- npm install
+- npm start
 
 ### Prerequisites
 
@@ -37,7 +37,7 @@ Any browser
 👤 **John Mutisya**
 
 - GitHub: [@githubhandle](https://github.com/johnkioko)
-- Twitter: [@twitterhandle](https://twitter.com/@john_the_web_dev)
+- Twitter: [@twitterhandle](https://twitter.com/@John_Web_Dev)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/johnkioko)
 
 ## 🤝 Contributing
